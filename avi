@@ -1,0 +1,4 @@
+ffmpeg -i runme_merging_01_restore_2000.avi runme_merging_01_restore_2000.mp4
+ffmpeg -i runme_merging_01_restore_500.avi runme_merging_01_restore_500.mp4 
+ffmpeg -i runme_single_02_restore2_2000.avi runme_single_02_restore2_2000.mp4
+ffmpeg -i runme_single_02_restore2_500.avi runme_single_02_restore2_500.mp4
